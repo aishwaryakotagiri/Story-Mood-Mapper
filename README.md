@@ -1,10 +1,10 @@
 Story Mood Mapper
 
-Hey there! 👋
+Hey there! 
 Have you ever written something and wondered — “What does this feel like?”
 That’s exactly what Story Mood Mapper helps you discover.
 
-This little tool reads your words and gently tells you what emotions live inside them. Whether you’re writing a story, journaling your thoughts, or just exploring language, it shows you the emotional shades of your text — joy, sadness, fear, trust, and more. 💬🌈
+This little tool reads your words and gently tells you what emotions live inside them. Whether you’re writing a story, journaling your thoughts, or just exploring language, it shows you the emotional shades of your text — joy, sadness, fear, trust, and more.
 
 What it does
 - Reads any English text you give it
@@ -57,7 +57,7 @@ And sometimes, I just want to know — what is the emotional pulse of what I wro
 
 So I made this as a fun blend of AI and storytelling — a tool for writers who care about how their words feel. It helps me reflect on my mood, my story’s energy, and even how a reader might experience it.
 
-Maybe it’ll do the same for you 💛
+Maybe it’ll do the same for you 
 
-👩‍💻 About Me
+About Me:
 I'm Aishwarya Kotagiri, a student building things with machine learning and heart.
