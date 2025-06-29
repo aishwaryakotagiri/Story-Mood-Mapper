@@ -1,4 +1,4 @@
-Story Mood Mapper
+STORY MOOD MAPPER
 
 Hey there! 
 Have you ever written something and wondered — “What does this feel like?”
